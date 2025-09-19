@@ -33,3 +33,17 @@
 2025-09-19 10:51:14 - SUCCEED IN FETCHING (25/26): WI700 통신서비스
 2025-09-19 10:51:15 - SUCCEED IN FETCHING (26/26): WI800 유틸리티
 2025-09-19 10:51:15 END [ FETCH SECTORS LIST ] 40.99s
+2025-09-19 15:46:05 RUN [ FETCH MARKET BASIC ] @20250919
+2025-09-19 15:46:09 END [ FETCH MARKET BASIC ] 4.10s
+2025-09-19 15:46:13 RUN [ FETCH CORPORATIONS LIST ] @20250919
+2025-09-19 15:46:15 END [ FETCH CORPORATIONS LIST ] 2.13s
+2025-09-19 15:48:27 [WARNING] There are 1 tickers with missing sector or industry codes.
+{
+    "ticker": "488280",
+    "name": "에스투더블유",
+    "sectorCode": "__sectorCode__",
+    "industryCode": "__industryCode__",
+    "KRXIndustry": "소프트웨어 개발 및 공급업",
+    "products": "공공/정부기관용 사이버안보 빅데이터 플랫폼, 기업 및 기관용 사이버위협 인텔리전스 플랫폼, 산업용 생성형 AI 플랫폼",
+},
+
